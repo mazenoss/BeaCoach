@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<group>
+    <item
+        android:id="@+id/v"
+        android:title="Home"/>
+    <item
+        android:id="@+id/a"
+        android:title="@string/shooting_sport_history"/>
+    <item
+        android:id="@+id/b"
+        android:title="Selectivity" />
+    <item
+        android:id="@+id/c"
+        android:title="Anatomy"/>
+    <item
+        android:id="@+id/d"
+        android:title="Technical Preparation (Rifle)"/>
+    <item
+        android:id="@+id/e"
+        android:title="Technical Preparation (Pistol)"/>
+    <item
+        android:id="@+id/f"
+        android:title="Technical Preparation (Target Sprint)" />
+    <item
+        android:id="@+id/g"
+        android:title="Moving Targets "/>
+    <item
+        android:id="@+id/h"
+        android:title="Shotgun"/>
+    <item
+        android:id="@+id/i"
+        android:title="Maintenance"/>
+    <item
+        android:id="@+id/j"
+        android:title="Disabled People" />
+    <item
+        android:id="@+id/k"
+        android:title="Physical Preparation"/>
+    <item
+        android:id="@+id/l"
+        android:title="Physiology"/>
+    <item
+        android:id="@+id/m"
+        android:title="Psychological Preparation"/>
+    <item
+        android:id="@+id/n"
+        android:title="Training" />
+    <item
+        android:id="@+id/o"
+        android:title="Planning"/>
+    <item
+        android:id="@+id/p"
+        android:title="Measuring the Training Loads" />
+    <item
+        android:id="@+id/q"
+        android:title="Nutrition"/>
+    <item
+        android:id="@+id/r"
+        android:title="Tests and Measurements" />
+    <item
+        android:id="@+id/s"
+        android:title="Law"/>
+    <item
+        android:id="@+id/t"
+        android:title="Steroids"/>
+    <item
+        android:id="@+id/u"
+        android:title="References"/>
+</group>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/abouten"
+                android:title="about author"/>
+        </menu></item>
+
+</menu>

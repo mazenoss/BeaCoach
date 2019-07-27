@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+    <item
+        android:id="@+id/v"
+        android:title="تصفح الكتاب من البداية"/>
+    <item
+        android:id="@+id/a"
+        android:title="تاريخ رياضة الرماية"/>
+    <item
+        android:id="@+id/b"
+        android:title="الانتقاء" />
+    <item
+        android:id="@+id/c"
+        android:title="التشريح"/>
+    <item
+        android:id="@+id/d"
+        android:title="الاعداد الفني للاعب البندقية "/>
+    <item
+        android:id="@+id/e"
+        android:title="الاعداد الفني للاعب المسدس"/>
+    <item
+        android:id="@+id/f"
+        android:title="الاعداد الفني للاعب التارجت سبرنت" />
+    <item
+        android:id="@+id/g"
+        android:title="الأهداف المتحركة "/>
+    <item
+        android:id="@+id/h"
+        android:title="الخرطوش"/>
+    <item
+        android:id="@+id/i"
+        android:title="الصيانة"/>
+    <item
+        android:id="@+id/j"
+        android:title="الإعداد الفني لأصحاب الهمم" />
+    <item
+        android:id="@+id/k"
+        android:title="الاعداد البدني"/>
+    <item
+        android:id="@+id/l"
+        android:title="الفسيولوجي"/>
+    <item
+        android:id="@+id/m"
+        android:title="الإعداد النفسي"/>
+    <item
+        android:id="@+id/n"
+        android:title="التدريب" />
+    <item
+        android:id="@+id/o"
+        android:title="التخطيط"/>
+    <item
+        android:id="@+id/p"
+        android:title="تقنين الاحمال التدريبية" />
+    <item
+        android:id="@+id/q"
+        android:title="التغذية"/>
+    <item
+        android:id="@+id/r"
+        android:title="الاختبارات والمقاييس" />
+    <item
+        android:id="@+id/s"
+        android:title="القانون"/>
+    <item
+        android:id="@+id/t"
+        android:title="المنشطات"/>
+    <item
+        android:id="@+id/u"
+        android:title="المراجع"/>
+</group>
+    <item android:title="">
+<menu>
+    <item
+        android:id="@+id/aboutar"
+        android:title="المؤلف"/>
+</menu></item>
+
+</menu>
+
